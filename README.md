@@ -2,7 +2,7 @@
 
 
 this couter uses a LDR sensor to see when a car passes by
-this get registered by the arduino with sents the info to the schreen.
+this get registered by the arduino with sents the info to the LCD.
 
 # What doe you need
 
@@ -12,3 +12,5 @@ http://www.ebay.com/sch/i.html?_odkw=ellow+Green+Serial+IIC%2FI2C%2FTWI+2004+LCD
 
 
 * Arduino, UNO / Nano / Mega / Leonardo.
+
+http://www.ebay.com/sch/i.html?_from=R40&_sacat=0&LH_BIN=1&_nkw=arduino+uno&_sop=15
