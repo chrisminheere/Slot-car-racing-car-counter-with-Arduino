@@ -1,6 +1,6 @@
 # Slot-car-racing-car-counter-with-Arduino.
 
-this couter uses a LDR sensor to see when a car passes by this get registered by the arduino with sents the info to the LCD.
+This counter uses a LDR sensor to see when a car passes by, this get registered by the arduino with send the info to the LCD.
 
 ## What doe you need.
 
