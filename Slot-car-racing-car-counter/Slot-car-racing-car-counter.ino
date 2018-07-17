@@ -1,3 +1,7 @@
+//Made By: Chris Minheere 
+//11-07-2017
+//Slot racing car counter
+
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
 
